@@ -1,0 +1,17 @@
+Virtual User Script started at : 2021-04-08 18:25:57
+TruClient Replay (build 0703) for LoadRunner 12.62.0, build 0675. OS: Windows 10, Browser: Chromium 68.0.3440.106, initialized on 2021/04/08 at 18:25:57 (1617886557.827s)
+Running Vuser...
+Starting iteration 1.
+t=00001611ms: Step 1: Navigate to "http://www.google.com/" started    [MsgId: MMSG-205180]
+t=00006141ms: Step 1: Navigate to http://www.google.com/ successfully completed with End Event "Step network completed"    [MsgId: MMSG-205180]
+t=00006648ms: Step 3: Click on Search combobox started    [MsgId: MMSG-205180]
+t=00007172ms: Step 3: Click on Search combobox successfully completed with End Event "Step network completed"    [MsgId: MMSG-205180]
+t=00007680ms: Step 4: Type GIT in Search combobox started    [MsgId: MMSG-205180]
+t=00009040ms: Step 4: Type GIT in Search combobox successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+t=00009546ms: Step 7: Click on Search combobox started    [MsgId: MMSG-205180]
+t=00009935ms: Step 7: Click on Search combobox successfully completed with End Event "Step network completed"    [MsgId: MMSG-205180]
+t=00010440ms: Step 8: Press key Enter on Search combobox started    [MsgId: MMSG-205180]
+t=00013545ms: Step 8: Press key Enter on Search combobox successfully completed with End Event "Document Loaded"    [MsgId: MMSG-205180]
+Ending iteration 1.
+Ending Vuser...
+Vuser Terminated.

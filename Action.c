@@ -9,6 +9,7 @@ Action()
 	truclient_step("4", "Type GIT in Search combobox", "snapshot=Action_4.inf");
 	truclient_step("7", "Click on Search combobox", "snapshot=Action_7.inf");
 	truclient_step("8", "Press key Enter on Search combobox", "snapshot=Action_8.inf");
+	truclient_step("10", "Click on Git link", "snapshot=Action_10.inf");
 
 	return 0;
 }
