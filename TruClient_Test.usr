@@ -16,7 +16,7 @@ ParamLeftBrace={
 ParamRightBrace=}
 ScriptLanguage=C
 RunType=cci
-LastCodeGenerationVer=
+LastCodeGenerationVer=12.62.0.675
 DisableRegenerate=0
 Encoding=
 Description=
@@ -27,16 +27,16 @@ Action=Action.c
 Lib-View=Lib-View.c
 vuser_end=vuser_end.c
 [VisibleActions]
+Lib-View=1
 vuser_init=1
 Action=1
 vuser_end=1
-Lib-View=1
 [VuserProfiles]
 Profiles=Default Profile
 [CfgFiles]
-Default Profile=default.cfg
+"Default Profile"=default.cfg
 [RunLogicFiles]
-Default Profile=default.usp
+"Default Profile"=default.usp
 [ExtraFiles]
 C-functions.c=
 globals.h=
